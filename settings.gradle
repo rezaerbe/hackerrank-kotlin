@@ -1,0 +1,3 @@
+include ':libhackerrank'
+include ':app'
+rootProject.name = "Hackerrank"
